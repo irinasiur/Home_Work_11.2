@@ -1,5 +1,5 @@
-def uppercase_translation(a):
+def uppercase_translation(aa):
     """Переводит буквы в верхний регистр"""
-    return a.upper()
+    return aa.upper()
 
 
