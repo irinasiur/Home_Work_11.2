@@ -5,4 +5,5 @@ def uppercase_translation(a):
 
 def capitalize_first_letter(a):
     """Переводит первую букву каждогомслова в строке в верхний регистр"""
+    """bla bla fixed"""
     return a.title()
