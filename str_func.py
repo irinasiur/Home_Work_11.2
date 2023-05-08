@@ -3,3 +3,6 @@ def uppercase_translation(aa):
     return aa.upper()
 
 
+def capitalize_first_letter(a):
+    """Переводит первую букву каждогомслова в строке в верхний регистр"""
+    return a.title()
